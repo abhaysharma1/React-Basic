@@ -1,2 +1,2 @@
 ## React Basic Projects
-Projects made during the initial stages of learning react trhough a web course
+Projects made during the initial stages of learning react through a web course
